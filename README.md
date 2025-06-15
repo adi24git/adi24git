@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">A passionate software engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi24git&label=Profile%20views&color=0e75b6&style=flat" alt="adi24git" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi24git" alt="adi24git" /></a> </p>
 
 - 🌱 In the phase of learning, **experimenting, and evolving.**
 
