@@ -1,3 +1,7 @@
+
+
+                           ✨ _“Code with curiosity, flow with nature, and trust the timing of life.”_ ✨
+ 
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">A passionate software engineering</h3>
 
